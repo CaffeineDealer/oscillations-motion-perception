@@ -1,2 +1,2 @@
 # oscillations-motion-perception
-![video](oscillations-motion-perception/complex.mp4)
+![video](complex.mp4)
